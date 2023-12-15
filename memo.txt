@@ -1,0 +1,7 @@
+https://musclecoding.com/rails-practical-guide/
+上記を元にプロジェクトを作成した 20231215
+
+
+
+
+クリーンなコードを維持しよう：Rubocop の導入  セクションから先は何もしていない

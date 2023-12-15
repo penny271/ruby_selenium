@@ -61,10 +61,10 @@ def complete_product_url(row)
   end
 end
 
-#^ 青木 ★要更新 - 20230928
 puts()
 puts("★★★もらったcsvファイルを一度googleDriveにアップし、それをcsvファイルにしないとCSV::MalformedCSVError (Invalid byte sequence in UTF-8 in line 1.):が起きるため、そのようにしてtmpフォルダーに保存し、そのファイルを読み込むこと!!★★★")
 puts()
+puts("★★★ tempフォルダに保存するファイル名ルールは アカウントID_商品一覧.csv とすること ★★★")
 
 @account_id = ARGV[0]&.to_i
 

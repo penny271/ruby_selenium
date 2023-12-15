@@ -1,7 +1,6 @@
 https://musclecoding.com/rails-practical-guide/
 上記を元にプロジェクトを作成した 20231215
+進捗: クリーンなコードを維持しよう：Rubocop の導入  セクションから先は何も設定していない
 
-
-
-
-クリーンなコードを維持しよう：Rubocop の導入  セクションから先は何もしていない
+https://zenn.dev/usmoo/articles/133bb9ab4864d7
+selenium の設定方法 20231215

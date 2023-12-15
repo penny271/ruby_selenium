@@ -3,6 +3,7 @@ require 'selenium-webdriver'
 
 # ブラウザの指定(Chrome)
 session = Selenium::WebDriver.for :chrome
+
 # 10秒待っても読み込まれない場合は、エラーが発生する
 session.manage.timeouts.implicit_wait = 10
 # ページ遷移する
